@@ -15,3 +15,5 @@ print(gamesList[:2])
 
 # 4 - Busca jogos de uma posição em diante
 print(gamesList[2:])
+
+# Efetuando teste de atualização de branch
