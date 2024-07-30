@@ -1,4 +1,4 @@
-Project Name
+Project Name: Python Developer
 Short description or overview of the project.
 
 Table of Contents
